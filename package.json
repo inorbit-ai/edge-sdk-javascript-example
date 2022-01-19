@@ -1,0 +1,24 @@
+{
+  "name": "edge-sdk-javascript-example",
+  "version": "1.0.0",
+  "description": "A step by step guide for getting your Javascript programs to communicate with InOrbit platform on behalf of robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inorbit-ai/edge-sdk-javascript-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inorbit-ai/edge-sdk-javascript-example/issues"
+  },
+  "homepage": "https://github.com/inorbit-ai/edge-sdk-javascript-example#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.16.7",
+    "@inorbit/edge-sdk": "^0.1.7"
+  },
+  "type": "module"
+}
