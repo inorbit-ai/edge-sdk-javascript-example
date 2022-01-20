@@ -14,9 +14,9 @@
  async function main() {
    const robotId = '<Update this value>';
  
-   // Initialize the SDK reading the InOrbit App Key from the environment
+   // Initialize the SDK reading the InOrbit API Key from the environment
    const sdk = new InOrbit({
-     appKey: process.env.INORBIT_APP_KEY,
+     appKey: process.env.INORBIT_API_KEY,
      // Include logging to the console
      logger: {
        info: console.log,
