@@ -5,6 +5,13 @@
  * Copyright 2021 InOrbit, Inc.
  */
 
+ /**
+ * InOrbit Edge SDK Example showing how to send data belonging to one robot
+ * to the InOrbit Platform.
+ *
+ * Copyright 2022 InOrbit, Inc.
+ */
+
  import { InOrbit } from '@inorbit/edge-sdk';
 
  function sleep(ms) {
