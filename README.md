@@ -12,8 +12,8 @@ A step by step guide for getting your Javascript programs to communicate with th
 2. Run `npm install` in the repo directory
 3. Go to your [InOrbit Console](console.inorbit.ai) and get your API Key
 4. Set an environment variable `INORBIT_API_KEY=<YOUR API KEY>`
-5. Update your RobotID to a unique identifier - *(line 15)*
-6. Update your robot name *(optional)* - *(line 29)*
+5. Update your RobotID to a unique identifier - *(index.js:22)*
+6. Update your robot name *(optional)* - *(index.js:36)*
 7. Run `node index.js`
 8. Log in to the [InOrbit Control Panel](control.inorbit.ai) to see your robot InOrbit
 
